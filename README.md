@@ -1,7 +1,8 @@
 # hangman-word-guessing-game-project
 
 Project Title: Hangman Word Guessing Game
-Project Description: Developed a classic Hangman word guessing game using that provides an engaging and interactive user experience.
+Project Description: Developed a classic Hangman word guessing game using "Python Programming" that provides an engaging user experience.
+
 key Achievements: 
 1. Game Logic: Implemented the core game logic, including word selection, guessing, and tracking of incorrect guesses, ensuring
    seamless and enjoyable gaming experience.
